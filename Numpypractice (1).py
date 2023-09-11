@@ -78,7 +78,7 @@ myarr1[0,2]=22
 # In[12]:
 
 
-myarr1
+myarr1#it will print array
 
 
 # # Conversion from other Python structures
